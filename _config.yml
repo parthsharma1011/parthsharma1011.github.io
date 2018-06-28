@@ -1,0 +1,37 @@
+# Site settings
+name: Parth Sharma
+email: parthsharma1011@gmail.com
+#canonical_url: https://edwinexemplar.com
+keywords: "Python, YouTuber, Natural language processing, Machine Learning, Deep Learning, Startups, Agile"
+skills: "Sr.Cognitive Developer in Bangalore"
+baseurl:
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# You should replace these with your social networks, of course. :)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/parthsharma1011/
+  - title: youtube
+    url: https://www.youtube.com/channel/UCfj89GgCnkluucNu6CEYNRg
+  - title: twitter
+    url: https://twitter.com/codeknight1
+    
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 2196F3
+  primary-rgb: "33, 150, 243"
+  secondary: 285172
+  secondary-dark: 29455b
+  section-tout: eaf1f1
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
